@@ -72,6 +72,15 @@ MANUALLY SKIPPED UNSUPPORTED DEVICE CHECK!
 LED: current=255 original=255 saved=255
 ```
 
+Installing (Ubuntu)
+-------------------
+You can install a pre-built version of *wdled* from an Ubuntu PPA: https://launchpad.net/~jbit.net/+archive/ubuntu/wdled
+
+```
+add-apt-repository ppa:jbit.net/wdled
+apt install wdled
+```
+
 Building
 --------
 Make sure you have [sg3_utils](http://sg.danny.cz/sg/sg3_utils.html) development files installed.
