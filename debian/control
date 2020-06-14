@@ -1,0 +1,14 @@
+Source: wdled
+Section: admin
+Priority: optional
+Maintainer: James Lee <jbit@jbit.net>
+Standards-Version: 4.5.0
+Homepage: https://jbit.net/wdled/
+Build-Depends: debhelper (>= 12), libsgutils2-dev (>= 1.44)
+Rules-Requires-Root: no
+Vcs-Git: https://github.com/jbit/wdled/
+
+Package: wdled
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Control the LED on WD My Passport Disks
