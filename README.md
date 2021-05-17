@@ -36,6 +36,7 @@ wdled /dev/disk/by-id/usb-WD_My_Passport_foo
 
 Supported Devices
 -----------------
+* WD My Passport 0837
 * WD My Passport 259D
 * WD My Passport 259E
 * WD My Passport 259F
