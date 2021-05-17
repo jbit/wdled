@@ -48,6 +48,7 @@
 
 // A list of verified working WD product names
 const char* wd_products[] = {
+    "My Passport 0837",
     "My Passport 259D",
     "My Passport 259E",
     "My Passport 259F",
